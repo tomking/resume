@@ -1,2 +1,2 @@
 # resume
-A repository to house my resume
+A repository that will soon house my resume, it is currently being migrated from a different format.
